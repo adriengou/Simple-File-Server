@@ -4,7 +4,7 @@
         "port": 80
     },
     "FILES": {
-        "download_path": "files/download",
-        "upload_path": "files/upload"
+        "download_path": "D:/Jeux/Minecraft/CC_Tweaked/CC_Tweaked/Projects",
+        "upload_path": "D:/Jeux/Minecraft/CC_Tweaked/CC_Tweaked/Upload"
     }
 }
