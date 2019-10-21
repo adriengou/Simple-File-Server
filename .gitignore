@@ -3,3 +3,4 @@ venv
 files
 .vscode
 new_simple_file_server.py
+config.json
