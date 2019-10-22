@@ -19,7 +19,6 @@ def file_tree(path):
     return file_list
     
 
-
 @app.route('/download', methods=['GET'])
 def download():
     root = Path('files/download')
